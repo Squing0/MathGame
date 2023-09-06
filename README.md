@@ -17,7 +17,7 @@ Simple Maths game console application to learn the basics of C#. All requirement
 
 ## ✨Features:
 + Console based UI where the user has eight options.
-- ![math1](https://github.com/Squing0/MathGame/assets/119138371/f5886f4b-a1f1-4851-ad40-c11def42a4f9)
+- ![math1](assets/119138371/f5886f4b-a1f1-4851-ad40-c11def42a4f9)
 + 3 selectable difficulties.
 - ![math2](https://github.com/Squing0/MathGame/assets/119138371/59f74a4c-5aff-4156-9160-b1005f510fe7)
 + A record is kept of all past games.
